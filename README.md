@@ -14,6 +14,10 @@ YAML files that contain a series of commands to run on the target machines. Thes
 3. Install Dependencies
 4. Copy production files
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6cb1122c0282eacd8f4b148846bc93658d56e461
 A Playbook includes the following primary sections:
 
 - name - Name of the playbook(yml file).
